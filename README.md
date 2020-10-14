@@ -3,9 +3,7 @@ Projeto desenvolvido na semana NWL 3 da RocketSeat - Website e mobile - Projeto 
 
 
 <p align="center"><h1>Home - 1º projeto</h1>
-  <img src="https://drive.google.com/file/d/1xI0K8_070G_9iqr6kjF-dHi1XW79tTBv/view" />
+  <img src="https://lh5.googleusercontent.com/4Ukm_ahGTTo4SC0ptHaJeuSw6EzAKRtOAj8Lvwu1jYHHCZbdn3wUkqXf8QiQM5Jq1L0Rny9cD93NfL3Wwk4H=w1853-h932-rw" />
 </p>
-<p align="center"><h1>Mapa - 1º projeto</h1>
-  <img src="https://drive.google.com/file/d/1SVYKaEjxRyByZpkaUMEJFDso0xUEFpnW/view?usp=sharing" />
-</p>
+
 

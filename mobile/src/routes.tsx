@@ -12,6 +12,7 @@ import OrphanageData from './pages/CreateOrphanage/OrphanageData';
 
 import Header from './components/Header';
 
+// create page route
 export default function Routes() {
     return(
         <NavigationContainer>
